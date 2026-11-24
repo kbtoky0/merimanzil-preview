@@ -293,3 +293,4 @@ h3{font-size:18px;letter-spacing:-.02em;font-weight:700}
 .field input{width:100%;min-width:0}
 .seat.bm,.seat.bf{opacity:.72}
 @media(max-width:760px){.trip .bk{grid-column:3;grid-row:1/span 2;align-self:center}.trip .tf{grid-column:2;grid-row:2}}
+.done dl{text-align:start;width:100%}
